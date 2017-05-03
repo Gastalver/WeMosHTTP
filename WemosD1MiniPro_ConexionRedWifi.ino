@@ -5,8 +5,8 @@
 #include <ESP8266HTTPClient.h>
 
 // Parametros de conexión
-const char* ssid = "MOVISTAR_FB28_EXT";
-const char* password = "ubypp46915";
+const char* ssid = "xxxxx";
+const char* password = "xxxxx";
 const char* host = "192.168.1.36";
 const uint16_t port = 3000;
 const String path = "/";
